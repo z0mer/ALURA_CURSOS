@@ -1,4 +1,4 @@
-# DESAFIO 01 ✨
+# DESAFIO 02 ✨
 
 <div>
   <img align = "right" src="img/alura.png" width="120" height="120" alt="Alura">

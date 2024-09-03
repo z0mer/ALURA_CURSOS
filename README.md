@@ -1,9 +1,17 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=121&color=0000CD&text=🖥️%20Códigos%20Alura%20🖥️&fontSize=35&fontColor=AFEEEE&section=header&fontAlignY=65)
 
-## 📈 Objetivo 📈
+## 📈 Objetivos 📈
 
 <div>
   <img align = "right" src="img/alura.png" width="120" height="120" alt="Alura">
 </div>
 
-Armazenar os códigos e desafios que foram solicitados pelos cursos realizados na plataforma `Alura`
+Este repositório tem como objetivo centralizar os códigos e desafios desenvolvidos durante os cursos da Alura. Aqui, você encontrará projetos práticos que me ajudaram a consolidar meus conhecimentos em diversas áreas da programação.
+
+## ✅ Cursos Concluídos ✅
+
+* **Lógica de programação: mergulhe em programação com JavaScript**
+  * Pasta `C1_L.D.P`
+
+* **Lógica de programação: explore funções e listas**
+  * Pasta `C2_L.D.P`

@@ -1,0 +1,36 @@
+
+:root{
+    --azul-escuro: #200c83;
+}
+.logo img {
+    width: 50px;
+    height: 50px;
+  }
+body{
+    margin-left: 5rem;
+    margin-right: 5rem;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid var(--azul-escuro);
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    background-color: var(--azul-escuro);
+    padding: 5rem;
+    margin-top: 3rem;
+    color: rgb(236, 229, 229);
+    flex-direction: column;
+}
+a{
+    text-decoration: none;
+    color: rgb(236, 229, 229);
+}
+.copy{
+    text-align: center;
+}

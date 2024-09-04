@@ -15,3 +15,5 @@ Este repositório tem como objetivo centralizar os códigos e desafios desenvolv
 
 * **Lógica de programação: explore funções e listas**
   * Pasta `C2_L.D.P`
+
+* **Git e GitHub: compartilhando e colaborando em projetos**

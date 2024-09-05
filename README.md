@@ -10,10 +10,13 @@ Este repositório tem como objetivo centralizar os códigos e desafios desenvolv
 
 ## ✅ Cursos Concluídos ✅
 
-* **Lógica de programação: mergulhe em programação com JavaScript**
-  * Pasta `C1_L.D.P`
+<div align = "middle">
+ 
+| 🌟 |
+|---------|
+| [Lógica de programação: mergulhe em programação com JavaScript](https://github.com/z0mer/ALURA_CURSOS/tree/main/C1_L.D.P) |
+| [Lógica de programação: explore funções e listas](https://github.com/z0mer/ALURA_CURSOS/tree/main/C2_L.D.P) |
+| Git e GitHub: compartilhando e colaborando em projetos |
 
-* **Lógica de programação: explore funções e listas**
-  * Pasta `C2_L.D.P`
+</div>
 
-* **Git e GitHub: compartilhando e colaborando em projetos**

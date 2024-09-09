@@ -19,6 +19,7 @@ Este repositório tem como objetivo centralizar os códigos e desafios desenvolv
 | Git e GitHub: compartilhando e colaborando em projetos |
 | [Lógica de programação: praticando com desafios](https://github.com/z0mer/ALURA_CURSOS/tree/main/C4_L.D.P) |
 | [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://github.com/z0mer/ALURA_CURSOS/tree/main/C1_HTMLECSS) |
+| [HTML e CSS: Classes, posicionamento e Flexbox](https://github.com/z0mer/ALURA_CURSOS/tree/main/C2_HTMLECSS) |
 
 </div>
 

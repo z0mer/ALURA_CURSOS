@@ -2,11 +2,12 @@
 
 ## 📈 Objetivos 📈
 
-<div>
-  <img align = "right" src="img/alura.png" width="120" height="120" alt="Alura">
-</div>
-
 Este repositório tem como objetivo centralizar os códigos e desafios desenvolvidos durante os cursos da Alura. Aqui, você encontrará projetos práticos que me ajudaram a consolidar meus conhecimentos em diversas áreas da programação.
+
+<p align = "right">
+<img align = "right" src="img/alura.png" width="120" height="120" alt="Alura">
+
+
 
 ## ✅ Cursos Concluídos ✅
 

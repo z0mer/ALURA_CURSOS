@@ -24,6 +24,7 @@ Este repositório tem como objetivo centralizar os códigos e desafios desenvolv
 | [HTML e CSS: Classes, posicionamento e Flexbox](https://github.com/z0mer/ALURA_CURSOS/tree/main/!HTML_E_CSS/C2_HTMLECSS) |
 | C# E .NET ⬇️|
 | [C#: criando sua primeira aplicação](https://github.com/z0mer/ALURA_CURSOS/tree/main/!C%23/C1.C%23) |
+| [C#: aplicando a Orientação a Objetos](https://github.com/z0mer/ALURA_CURSOS/tree/main/!C%23/C2.C%23) |
 | IMERSÕES ⬇️|
 | [Mergulhe em Inteligência Artificial com o Google Gemini](https://github.com/z0mer/ALURA_CURSOS/tree/main/!IMERSAO_GEMINI) |
 

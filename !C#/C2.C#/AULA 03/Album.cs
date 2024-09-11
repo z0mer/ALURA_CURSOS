@@ -6,7 +6,9 @@ class Album
     private List<Musica> musicas = new List<Musica>();
 
     public string Nome { get; set; }
-    public int DuracaoTotal { get; set; }
+    //No método Sum(), vamos representar cada música como m, adicionar uma arrow function logo depois, e por fim escrever m.Duracao,
+    //indicando que para cada música queremos somar a duração.
+    public int DuracaoTotal => musicas.Sum(m => m.DuracaoMusica);
 
     public void AdicionarMusica(Musica musica)
     {
@@ -20,5 +22,6 @@ class Album
         {
             Console.WriteLine($"Música: {musica.NomeMusica}");
         }
+        Console.WriteLine($"\nPara ouvir este álbum inteiro, você precisa de {DuracaoTotal}");
     }
 }

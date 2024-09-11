@@ -1,23 +1,23 @@
-Banda queen = new Banda("Queen");
+Episodio ep1 = new(4, "Técnicas de Facilitação", 45);
+ep1.AdicionarConvidado("Ana Pereira");
+ep1.AdicionarConvidado("Mário Francis");
 
-Album albumQueen = new Album("A night at the opera");
+Episodio ep2 = new(2, "Aprendendo a aprender", 78);
+ep2.AdicionarConvidado("Marcos Felício");
 
-Musica musica1 = new Musica(queen, "Love of my life")
-{
-    DuracaoMusica = 213,
-    DisponivelMusica = true,
-};
+Episodio ep3 = new(3, "Consciênciologia", 87);
+ep3.AdicionarConvidado("Flavio Almeida");
+ep3.AdicionarConvidado("Gui Lima");
+ep3.AdicionarConvidado("Fernanda Fernandes");
 
-Musica musica2 = new Musica(queen, "Bohemian Rhapsody")
-{
-    DuracaoMusica = 354,
-    DisponivelMusica = false,
-};
+Episodio ep0 = new(1, "Filosofia de software", 93);
+ep0.AdicionarConvidado("Fernando Roberto");
+ep0.AdicionarConvidado("Gabriel Barbosa");
 
-albumQueen.AdicionarMusica(musica1);
-albumQueen.AdicionarMusica(musica2);
-queen.AdicionarAlbum(albumQueen);
-musica1.FichaTecnica();
-musica2.FichaTecnica();
-albumQueen.ExibirMusica();
-queen.ExibirDiscografia();
+Podcast podcast = new("TI para Poucos", "Daniel Portugal");
+podcast.AdicionarEpisodio(ep1);
+podcast.AdicionarEpisodio(ep2);
+podcast.AdicionarEpisodio(ep3);
+podcast.AdicionarEpisodio(ep0);
+
+podcast.ExibirDetalhes();

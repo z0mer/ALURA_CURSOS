@@ -12,16 +12,19 @@ Este repositório tem como objetivo centralizar os códigos e desafios desenvolv
 
 <div align = "middle">
  
-| 🌟 |
+| 💡 |
 |---------|
+| LÓGICA DE PROGRAMAÇÃO ⬇️|
 | [Lógica de programação: mergulhe em programação com JavaScript](https://github.com/z0mer/ALURA_CURSOS/tree/main/C1_L.D.P) |
 | [Lógica de programação: explore funções e listas](https://github.com/z0mer/ALURA_CURSOS/tree/main/C2_L.D.P) |
-| Git e GitHub: compartilhando e colaborando em projetos |
 | [Lógica de programação: praticando com desafios](https://github.com/z0mer/ALURA_CURSOS/tree/main/C4_L.D.P) |
+| HTML E CSS ⬇️|
 | [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://github.com/z0mer/ALURA_CURSOS/tree/main/C1_HTMLECSS) |
 | [HTML e CSS: Classes, posicionamento e Flexbox](https://github.com/z0mer/ALURA_CURSOS/tree/main/C2_HTMLECSS) |
+| C# E .NET ⬇️|
 | [C#: criando sua primeira aplicação](https://github.com/z0mer/ALURA_CURSOS/tree/main/C1.C%23) |
-| [Mergulhe em Inteligência Artificial com o Google Gemini (Imersão)](https://github.com/z0mer/ALURA_CURSOS/tree/main/IMERSAO_GEMINI) |
+| IMERSÕES ⬇️|
+| [Mergulhe em Inteligência Artificial com o Google Gemini](https://github.com/z0mer/ALURA_CURSOS/tree/main/IMERSAO_GEMINI) |
 
 </div>
 

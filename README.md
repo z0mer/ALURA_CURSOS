@@ -5,7 +5,7 @@
 Este repositório tem como objetivo centralizar os códigos e desafios desenvolvidos durante os cursos da Alura. Aqui, você encontrará projetos práticos que me ajudaram a consolidar meus conhecimentos em diversas áreas da programação.
 
 <p align = "right">
-<img align = "right" src="img/alura.png" width="120" height="120" alt="Alura">
+<img src="img/alura.png" width="120" height="120" alt="Alura">
 
 
 
@@ -22,7 +22,7 @@ Este repositório tem como objetivo centralizar os códigos e desafios desenvolv
 | HTML E CSS ⬇️|
 | [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://github.com/z0mer/ALURA_CURSOS/tree/main/!HTML_E_CSS/C1_HTMLECSS) |
 | [HTML e CSS: Classes, posicionamento e Flexbox](https://github.com/z0mer/ALURA_CURSOS/tree/main/!HTML_E_CSS/C2_HTMLECSS) |
-| C# E .NET ⬇️|
+| C# ⬇️|
 | [C#: criando sua primeira aplicação](https://github.com/z0mer/ALURA_CURSOS/tree/main/!C%23/C1.C%23) |
 | [C#: aplicando a Orientação a Objetos](https://github.com/z0mer/ALURA_CURSOS/tree/main/!C%23/C2.C%23) |
 | IMERSÕES ⬇️|

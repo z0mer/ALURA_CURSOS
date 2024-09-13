@@ -25,6 +25,7 @@ Este repositório tem como objetivo centralizar os códigos e desafios desenvolv
 | C# ⬇️|
 | [C#: criando sua primeira aplicação](https://github.com/z0mer/ALURA_CURSOS/tree/main/!C%23/C1.C%23) |
 | [C#: aplicando a Orientação a Objetos](https://github.com/z0mer/ALURA_CURSOS/tree/main/!C%23/C2.C%23) |
+| [C#: dominando Orientação a Objetos](https://github.com/z0mer/ALURA_CURSOS/tree/main/!C%23/C3.C%23) |
 | IMERSÕES ⬇️|
 | [Mergulhe em Inteligência Artificial com o Google Gemini](https://github.com/z0mer/ALURA_CURSOS/tree/main/!IMERSAO_GEMINI) |
 

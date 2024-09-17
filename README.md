@@ -22,6 +22,7 @@ Este repositório tem como objetivo centralizar os códigos e desafios desenvolv
 | HTML E CSS ⬇️|
 | [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://github.com/z0mer/ALURA_CURSOS/tree/main/!HTML_E_CSS/C1_HTMLECSS) |
 | [HTML e CSS: Classes, posicionamento e Flexbox](https://github.com/z0mer/ALURA_CURSOS/tree/main/!HTML_E_CSS/C2_HTMLECSS) |
+| [HTML e CSS: trabalhando com responsividade e publicação de projetos](https://github.com/z0mer/ALURA_CURSOS/tree/main/!HTML_E_CSS/C3_HTMLECSS) |
 | C# ⬇️|
 | [C#: criando sua primeira aplicação](https://github.com/z0mer/ALURA_CURSOS/tree/main/!C%23/C1.C%23) |
 | [C#: aplicando a Orientação a Objetos](https://github.com/z0mer/ALURA_CURSOS/tree/main/!C%23/C2.C%23) |
